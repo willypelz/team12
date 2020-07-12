@@ -1,4 +1,4 @@
-# Title / Repository Name
+# Documentation on Comparison between React Native and Flutter / Team 12
 
 ## About / Synopsis
 
