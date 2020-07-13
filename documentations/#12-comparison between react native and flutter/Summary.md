@@ -1,4 +1,4 @@
-# Documentation on Comparison between React Native and Flutter / Team 12
+# Comparison between React Native & Flutter / Team 12
 
 ## About / Synopsis
 
