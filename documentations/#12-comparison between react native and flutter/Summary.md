@@ -1,47 +1,68 @@
-# Comparison between React Native & Flutter / Team 12
+# Comparison Between React Native & Flutter
 
-## About / Synopsis
+## React Native/Flutter By - <small> Team 12 </small>
 
-* What is it, what does it do / Abstract
-* Project status: working/prototype
-* Nuxeo Support
 
-See real examples:
+## Summary of the documentation
 
-* <https://github.com/nuxeo/nuxeo/blob/master/README.md>
-* <https://github.com/nuxeo/nuxeo-drive/blob/master/README.md>
-* <https://github.com/nuxeo/nuxeo-sdk-ios/blob/master/README.md>
+> * [Comparison between React Native & Flutter](#comparison-between-react-native-&-flutter)
+>   * [React Native/Flutter By - <small> Team 12 </small>](#React-Native/Flutter-By---<small>-Team-12-</small>)
+>   * [Summary of the documentation](#table-of-contents)
+>   * [Reason for this whole documentation](#reason-for-this-whole-documentation)
+>   * [React Native](#react-native)
+>     * [Advantages of React Native](#advantages-of-react-native)
+>     * [Disadvantages of React Native](#disadvantages-of-react-native) 
+>   * [Flutter](#flutter)
+>     * [Advantages of Flutter](#advantages-of-flutter)
+>     * [Disadvantages of Flutter](#disadvantages-of-flutter)
+> * [Recommendations](#recommendations)
+> * [Personal Recommendations](#personal-recommendations)
 
-## Table of contents
+## Reason For This whole Documentation
 
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
+I my name is Michael, moving straight to the reasons for this documentation without wasting much of your time are listed below;
 
-> * [Title / Repository Name](#title--repository-name)
->   * [About / Synopsis](#about--synopsis)
->   * [Table of contents](#table-of-contents)
->   * [Installation](#installation)
->   * [Usage](#usage)
->     * [Screenshots](#screenshots)
->     * [Features](#features)
->   * [Code](#code)
->     * [Content](#content)
->     * [Requirements](#requirements)
->     * [Limitations](#limitations)
->     * [Build](#build)
->     * [Deploy (how to install build product)](#deploy-how-to-install-build-product)
->   * [Resources (Documentation and other links)](#resources-documentation-and-other-links)
->   * [Contributing / Reporting issues](#contributing--reporting-issues)
->   * [License](#license)
->   * [About Nuxeo](#about-nuxeo)
+````
+1. clear insight on the tools(framework) to be used and
+2. what issues we might face when we go with any of the framework #team12 project
+````
 
-## Installation
 
-Sample:
 
-* From the Nuxeo Marketplace: install [the Sample Nuxeo Package](https://connect.nuxeo.com/nuxeo/site/marketplace/package/nuxeo-sample).
-* From the command line: `nuxeoctl mp-install nuxeo-sample`
+## React Native
+React Native:  Here are facts i have gather about React Native
 
-## Usage
+* Officially released in 2015
+* The architecture of this framework depends on the JS runtime environment, which is also recognized as the JS bridge.
+* By Facebook
+* Installation: you need Node package manager(NPM)  
+
+### Advantages of React Native
+
+Here are some advatages for going with React Native 
+
+* Easy Installation with node package manager NPM 
+* Easy learning curve because you it is majorly based on Javascript.
+* 
+
+## Flutter
+
+Flutter: Here are some Facts i have gather about Flutter
+
+* Initially released in 2017
+* The Dart-based framework utilizes the Skia C++ engine
+* By google 
+* Installation: binary source required or flutter zip
+
+
+### Advantages of React Native
+
+Here are some advatages for going with React Native 
+
+* More performance efficiency than React Native because  doesn’t require such a bridge as Dart code is compiled into native code
+* Easy Automation.
+* 
+
 
 ### Screenshots
 
