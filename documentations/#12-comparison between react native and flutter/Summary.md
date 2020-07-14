@@ -1,6 +1,6 @@
 # Comparison Between React Native & Flutter
 
-## <div style=""> React Native/Flutter By - <small> Team 12 </small> </div>
+####  React Native/Flutter By - <small> Team 12 </small> 
 
 
 ## Summary of the documentation
