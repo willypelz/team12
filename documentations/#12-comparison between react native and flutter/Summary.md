@@ -3,7 +3,7 @@
 ####  React Native/Flutter By - <small> Team 12 </small> 
 
 
-## Summary of the documentation
+### Summary of the documentation
 
 > * [Comparison between React Native & Flutter](#comparison-between-react-native-&-flutter)
 >   * [React Native/Flutter By - <small> Team 12 </small>](#React-Native/Flutter-By---<small>-Team-12-</small>)
